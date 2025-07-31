@@ -32,10 +32,10 @@ A responsive and elegant **Profile Card** built using HTML and CSS. Showcases a 
 
 ## 📂 Folder Structure
 
-📁 profile-card/
-├── index.html // Main file
-├── style.css // All styles defined here
-└── img.jpeg // Profile image
+index.html // Main file
+style.css // All styles defined here
+img.jpeg // Profile image
+image.jpeg // Preview of this site
 
 
 ---
@@ -44,7 +44,7 @@ A responsive and elegant **Profile Card** built using HTML and CSS. Showcases a 
 
 **Sayan Paul**  
 B.Tech in CSE (AI & ML)  
-[LinkedIn]((https://www.linkedin.com/in/sayan-paul-51b725207/)) | [GitHub](https://github.com/SayanCodemaster) | 📧 paulsayan980@gmail.com
+[LinkedIn](https://www.linkedin.com/in/sayan-paul-51b725207/) | [GitHub](https://github.com/SayanCodemaster) | 📧 paulsayan980@gmail.com
 
 ---
 
